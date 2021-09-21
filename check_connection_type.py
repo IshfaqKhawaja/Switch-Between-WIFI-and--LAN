@@ -46,5 +46,5 @@ def connect(index):
 
 wifi_name = ['wlp2s0', 'wlx00304fa11bec']
 # ['NS', 'velocis@jmi']
-cred = [['HCL', 'zubair2020'], ['OPPO', '13048100312']]
+cred = [['HCL', 'zubair2020'], ['OPPO', '13048100312']] #Enter Wifi and LAN credentials
 connect(1)
